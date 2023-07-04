@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MHs3yKBytMwyAUZmsSrzdjXwu1s2TbmceFH8oISd4/Q=",
+  "Source": "truck-maintenance-schedule-api",
+  "BasePath": "_content/truck-maintenance-schedule-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
